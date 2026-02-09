@@ -22,3 +22,8 @@ print(b / a)        #This will give the output 8.0. As we have used a single sla
 a = 2
 b = 16
 print(b // a)       #This will give the output 8. As we have used double slash(//) to divide.
+
+#Exponent
+a = 5
+b = 3
+print(a ** b)       #This will give the output 125. Here (**) is used as power.
